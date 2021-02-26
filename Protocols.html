@@ -1,10 +1,122 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <!-- Bootstrap CSS -->
+    <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css"
+          integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" rel="stylesheet">
+
+    <style>
+        button {
+            background-color: white;
+            color: black;
+            border: 2px solid #008CBA;
+            border-radius: 2px;
+            font-size: 24px;
+            width: 240px;
+            height:80px;
+        }
+        h1{padding-left: 150px;
+            text-align:left;
+            color: white;}
+        h2{text-align: center;}
+        center{text-align: justify-all;}
+
+        underline{text-decoration-line: underline;
+            text-decoration-color: black;
+        }
+
+    </style>
+    <title>HomePage</title>
+
+</head>
+
+<body>
+<div class="container">
+    <div class="row">
+        <div class="Carosel">
+            <nav class="navbar navbar-dark bg-primary">
+                <div class="container-fluid">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                        <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a class="nav-link" href="index.html">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="About.html">About</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="Domain.html">Domain names and ICANN</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="IP.html">IP Addresses, Packets and Routing</a>
+                            <li class="nav-item">
+                                <a class="nav-link" href="DNS.html">DNS</a>
+                            </li>
+                            <li class="nav-item active"  aria-current="page">
+                                <a class="nav-link" href="Protocols.html">HTTP and HTTPS protocols</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="HTML.html">W3C and HTML and CSS</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <h1>IS117 Project 2: How the Internet Works</h1>
+            </nav>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-auto">
+            <form method="get" action="index.html">
+                <button type="submit">Home</button>
+            </form>
+            <form method="get" action="About.html">
+                <button type="submit">About</button>
+            </form>
+            <form method="get" action="Domain.html">
+                <button type="submit">DomainName/ICANN</button>
+            </form>
+            <form method="get" action="IP.html">
+                <button type="submit">IP/Packets/Routing</button>
+            </form>
+            <form method="get" action="DNS.html">
+                <button type="submit">DNS</button>
+            </form>
+            <form method="get" action="Protocols.html">
+                <button type="submit">HTTP/HTTPS</button>
+            </form>
+            <form method="get" action="HTML.html">
+                <button type="submit">W3C/HTML/CSS</button>
+            </form>
+        </div>
+        <div class="col">
+            <h2>HTTP & HTTPS Protocols</h2>
+            <p class="center">Hypertext Transfer Protocol Secure (HTTPS) is the encrypted version of Hypertext Transfer Protocol (HTTP). HTTP (Hypertext Transfer Protocol) is an Application layer protocol that allows web-based applications to communicate. Application layer is in the OSI model with contain seven layers. These layers are the following: Physical Layer, Datalink Layer, Network Layer, Transport Layer, Session Layer, Presentation Layer, and Application Layer. Or as I remember them as “Please do not throw sausage pizza away”. Application layer use network application to exchange data on a network. For example, web browser like Chrome and Firefox, which all used HTTP protocol.</p>
+            <p class="center">HTTP is a TCP/IP protocol call and is the messenger of the web. It used to deliver contents such as image, video, and document. In other word, HTTP can deliver any type of data as long as the receiving and sending computers can both read it. And because of that, HTTP protocol became the most convenient way to quickie send reliably data on the web. If two computers want to exchange data, they must follow the HTTP protocol which is basically a request response cycle. Namely the client is the computer that make the request and the server is the one responds to the request.</p>
+            <p class="center">A HTTP request message contain the Start line (which include the Method, URI, and HTTP Version) and the Header (which contain the Host, Accept, and Accept Language). The Method is the command that the client give to the serve, instructing the server what to do. The URI show where we are getting our resource from. Basically, the location of the information from the server. The HTTP Version data is what version the client is using. The Host is the address of the server. Accept language tell you what language the information is and Accept tell you what type of file the data is in.	</p>
+            <p class="center">A HTTP respond message have a Start line (Which contain the HTTP version and the status code), the Header (which contain the Host, Accept, and Accept Language), and a respond body (that contain the file requested). The status code tell the client is the request is successful or not, which depend on the first digit of the status code. Notice that the Method and URL is not in the Start line because those are specifically for the request HTTP request message. </p>
+        </div>
+        <div class="col-md-auto">
+            <img src="Image/michael-dziedzic-qDG7XKJLKbs-unsplash.jpg"  alt="browser" width="300" height="250">
+            <div class="col-md-auto">
+                <img src="Image/omar-flores-MOO6k3RaiwE-unsplash.jpg"  alt="browser" width="300" height="300">
+            </div>
+        </div>
+    </div>
+</div>
 </body>
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+<script crossorigin="anonymous"
+        integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"></script>
+
 </html>
