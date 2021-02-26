@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="" />
+    <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image/pexels-markus-spiske-3872166.jpg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,9 +37,13 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Image" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jia Zhong\WebstormProjects\Projoct2\Image" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Jia Zhong\WebstormProjects\Projoct2\Image" />
     </key>
@@ -50,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614295995268</updated>
       <workItem from="1614295996462" duration="10697000" />
-      <workItem from="1614348210983" duration="4685000" />
+      <workItem from="1614348210983" duration="5334000" />
     </task>
     <task id="LOCAL-00001" summary="Create gitignore">
       <created>1614296304408</created>
@@ -283,14 +290,20 @@
       <option name="project" value="LOCAL" />
       <updated>1614353955144</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Try out photo (HTML.html)">
+      <created>1614354327810</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1614354327810</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Modify button size (index.html)" />
     <MESSAGE value="Modify button width (index.html)" />
     <MESSAGE value="Add Topics and Title (index.html)" />
     <MESSAGE value="Grid &lt;div&gt; (index.html)" />
@@ -315,6 +328,7 @@
     <MESSAGE value="Update (HTML.html)" />
     <MESSAGE value="Index paragraph (Protocols.html)" />
     <MESSAGE value="Index paragraph (HTML.html)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Index paragraph (HTML.html)" />
+    <MESSAGE value="Try out photo (HTML.html)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Try out photo (HTML.html)" />
   </component>
 </project>
