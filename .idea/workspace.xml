@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Navbar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Trail.html" beforeDir="false" afterPath="$PROJECT_DIR$/Trail.html" afterDir="false" />
     </list>
@@ -57,14 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614295995268</updated>
       <workItem from="1614295996462" duration="10697000" />
-      <workItem from="1614348210983" duration="14621000" />
-    </task>
-    <task id="LOCAL-00015" summary="Add detail on topics">
-      <created>1614305945357</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1614305945357</updated>
+      <workItem from="1614348210983" duration="16435000" />
     </task>
     <task id="LOCAL-00016" summary="Update text style">
       <created>1614306309510</created>
@@ -402,7 +396,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614371437531</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Update NavBar part 6">
+      <created>1614371964660</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1614371964660</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
