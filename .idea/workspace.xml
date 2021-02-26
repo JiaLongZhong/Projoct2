@@ -50,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614295995268</updated>
       <workItem from="1614295996462" duration="10697000" />
-      <workItem from="1614348210983" duration="4384000" />
+      <workItem from="1614348210983" duration="4685000" />
     </task>
     <task id="LOCAL-00001" summary="Create gitignore">
       <created>1614296304408</created>
@@ -276,14 +276,20 @@
       <option name="project" value="LOCAL" />
       <updated>1614353713776</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Index paragraph (HTML.html)">
+      <created>1614353955144</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1614353955144</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Modify button shape and color (index.html)" />
     <MESSAGE value="Modify button size (index.html)" />
     <MESSAGE value="Modify button width (index.html)" />
     <MESSAGE value="Add Topics and Title (index.html)" />
@@ -308,6 +314,7 @@
     <MESSAGE value="Underline Topic (Protocols.html)" />
     <MESSAGE value="Update (HTML.html)" />
     <MESSAGE value="Index paragraph (Protocols.html)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Index paragraph (Protocols.html)" />
+    <MESSAGE value="Index paragraph (HTML.html)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Index paragraph (HTML.html)" />
   </component>
 </project>
