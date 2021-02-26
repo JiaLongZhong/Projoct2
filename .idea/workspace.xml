@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="" />
+    <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Protocols.html" beforeDir="false" afterPath="$PROJECT_DIR$/Protocols.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614295995268</updated>
       <workItem from="1614295996462" duration="10697000" />
-      <workItem from="1614348210983" duration="6705000" />
+      <workItem from="1614348210983" duration="7037000" />
     </task>
     <task id="LOCAL-00001" summary="Create gitignore">
       <created>1614296304408</created>
@@ -322,15 +324,48 @@
       <option name="project" value="LOCAL" />
       <updated>1614362308675</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Trail card">
+      <created>1614362342295</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1614362342295</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Trail card 1">
+      <created>1614362381079</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1614362381079</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Trail card 1">
+      <created>1614362410011</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1614362410011</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Update (index.html)">
+      <created>1614362528575</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1614362528575</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Update (HTML.html)">
+      <created>1614362588178</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1614362588178</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Trails on list &quot;center&quot;" />
-    <MESSAGE value="Create style Center" />
     <MESSAGE value="Final README.MD" />
     <MESSAGE value="Add detail on topics" />
     <MESSAGE value="Update text style" />
@@ -346,7 +381,6 @@
     <MESSAGE value="update Protocols.html" />
     <MESSAGE value="Delete Image" />
     <MESSAGE value="Underline Topic (Protocols.html)" />
-    <MESSAGE value="Update (HTML.html)" />
     <MESSAGE value="Index paragraph (Protocols.html)" />
     <MESSAGE value="Index paragraph (HTML.html)" />
     <MESSAGE value="Try out photo (HTML.html)" />
@@ -354,6 +388,9 @@
     <MESSAGE value="Trail: photo2 (HTML.html)" />
     <MESSAGE value="Update photo (Protocols.html)" />
     <MESSAGE value="Trail card" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trail card" />
+    <MESSAGE value="Trail card 1" />
+    <MESSAGE value="Update (index.html)" />
+    <MESSAGE value="Update (HTML.html)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update (HTML.html)" />
   </component>
 </project>
