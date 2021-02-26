@@ -52,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614295995268</updated>
-      <workItem from="1614295996462" duration="8053000" />
+      <workItem from="1614295996462" duration="8696000" />
     </task>
     <task id="LOCAL-00001" summary="Create gitignore">
       <created>1614296304408</created>
@@ -152,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614304139290</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add detail on topics">
+      <created>1614305945357</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1614305945357</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +180,7 @@
     <MESSAGE value="Trails on list &quot;center&quot;" />
     <MESSAGE value="Create style Center" />
     <MESSAGE value="Final README.MD" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final README.MD" />
+    <MESSAGE value="Add detail on topics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add detail on topics" />
   </component>
 </project>
