@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Image/omar-flores-MOO6k3RaiwE-unsplash.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614295995268</updated>
-      <workItem from="1614295996462" duration="9006000" />
+      <workItem from="1614295996462" duration="9330000" />
     </task>
     <task id="LOCAL-00001" summary="Create gitignore">
       <created>1614296304408</created>
@@ -166,7 +165,35 @@
       <option name="project" value="LOCAL" />
       <updated>1614306309510</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Upload second Photo">
+      <created>1614306620101</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1614306620101</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Put PIC in Rows">
+      <created>1614306727804</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1614306727804</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Put PIC in Rows">
+      <created>1614306752201</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1614306752201</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Put PIC in Colums">
+      <created>1614306889544</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1614306889544</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +216,9 @@
     <MESSAGE value="Final README.MD" />
     <MESSAGE value="Add detail on topics" />
     <MESSAGE value="Update text style" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update text style" />
+    <MESSAGE value="Upload second Photo" />
+    <MESSAGE value="Put PIC in Rows" />
+    <MESSAGE value="Put PIC in Colums" />
+    <option name="LAST_COMMIT_MESSAGE" value="Put PIC in Colums" />
   </component>
 </project>
