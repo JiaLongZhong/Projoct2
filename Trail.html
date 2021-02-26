@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css"
+          integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" rel="stylesheet">
+
+    <style>
+        button {
+            background-color: white;
+            color: black;
+            border: 2px solid #008CBA;
+            border-radius: 2px;
+            font-size: 24px;
+            width: 240px;
+            height:80px;
+        }
+        h1{padding-left: 150px;
+            text-align:left;
+            color: white;}
+        h2{text-align: center;}
+        center{text-align: justify-all;}
+
+        underline{text-decoration-line: underline;
+            text-decoration-color: black;
+        }
+
+    </style>
+    <title>HomePage</title>
+
+</head>
+
+<body>
+<div class="container">
+    <div class="row">
+        <div class="Carosel">
+            <nav class="navbar navbar-dark bg-primary">
+                <div class="container-fluid">
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                        <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a class="nav-link active"  aria-current="page" href="index.html">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="About.html">About</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="Domain.html">Domain names and ICANN</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="IP.html">IP Addresses, Packets and Routing</a>
+                            <li class="nav-item">
+                                <a class="nav-link" href="DNS.html">DNS</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="Protocols.html">HTTP and HTTPS protocols</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="HTML.html">W3C and HTML and CSS</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <h1>IS117 Project 2: How the Internet Works</h1>
+            </nav>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-auto">
+            <form method="get" action="index.html">
+                <button type="submit">Home</button>
+            </form>
+            <form method="get" action="About.html">
+                <button type="submit">About</button>
+            </form>
+            <form method="get" action="Domain.html">
+                <button type="submit">DomainName/ICANN</button>
+            </form>
+            <form method="get" action="IP.html">
+                <button type="submit">IP/Packets/Routing</button>
+            </form>
+            <form method="get" action="DNS.html">
+                <button type="submit">DNS</button>
+            </form>
+            <form method="get" action="Protocols.html">
+                <button type="submit">HTTP/HTTPS</button>
+            </form>
+            <form method="get" action="HTML.html">
+                <button type="submit">W3C/HTML/CSS</button>
+            </form>
+        </div>
+        <div class="col">
+            <div class="card" style="width: 36rem;">
+                <div class="card-body">
+                    <h2 class="Topics:">Topics</h2>
+            <p class="center">1)<u class="underline">Domain names and ICANN</u> - The Internet Corporation for Assigned Names and Numbers (ICANN) is the organization that certifies Domain Name to ensure that every address is unique and valid: <a href="Domain.html">Read More</a></p>
+            <p class="center">2)<u class="underline">IP Addresses, Packets and Routing</u> - An IP address is a numerical label assigned to each device, founded inside the IP package and used by the router to connect to the network:<a href="IP.html">Read More</a></p>
+            <p class="center">3)<u class="underline">DNS</u> - DNS  is a system that assigns a unique domain name for every different website. It gives each website an individual ID:<a href="DNS.html">Read More</a></p>
+            <p class="center">4)<u class="underline">HTTP and HTTPS protocols</u> - Hypertext Transfer Protocol Secure(HTTPS) is the encrypted version of Hypertext Transfer Protocol (HTTP). The purpose of this protocol was to communicate between web browsers and web servers:<a href="Protocols.html">Read More</a></p>
+            <p class="center">5)<u class="underline">W3C and HTML and CSS</u> -  World Wide Web Consortium (W3C) was the standard organization for Cascading Style Sheets (CSS) and Hypertext Markup Language(HTML). HTML is the language used to design a webpage. CSS is the style sheet that formats the webpage:<a href="HTML.html">Read More</a></p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-auto">
+            <img src="Image/michael-dziedzic-qDG7XKJLKbs-unsplash.jpg"  alt="browser" width="300" height="250">
+            <div class="col-md-auto">
+                <img src="Image/omar-flores-MOO6k3RaiwE-unsplash.jpg"  alt="browser" width="300" height="300">
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+<script crossorigin="anonymous"
+        integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"></script>
+
+</html>
