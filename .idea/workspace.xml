@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614295995268</updated>
-      <workItem from="1614295996462" duration="5992000" />
+      <workItem from="1614295996462" duration="6382000" />
     </task>
     <task id="LOCAL-00001" summary="Create gitignore">
       <created>1614296304408</created>
@@ -130,7 +128,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614303223829</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Trails on list &quot;center&quot;">
+      <created>1614303586431</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1614303586431</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Create style Center">
+      <created>1614303788044</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1614303788044</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +160,8 @@
     <MESSAGE value="Add Topics and Title (index.html)" />
     <MESSAGE value="Grid &lt;div&gt; (index.html)" />
     <MESSAGE value="Center text (index.html)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Center text (index.html)" />
+    <MESSAGE value="Trails on list &quot;center&quot;" />
+    <MESSAGE value="Create style Center" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create style Center" />
   </component>
 </project>
