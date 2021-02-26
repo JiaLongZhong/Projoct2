@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +52,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614295995268</updated>
-      <workItem from="1614295996462" duration="9330000" />
+      <workItem from="1614295996462" duration="10697000" />
+      <workItem from="1614348210983" duration="651000" />
     </task>
     <task id="LOCAL-00001" summary="Create gitignore">
       <created>1614296304408</created>
@@ -193,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614306889544</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Change Photo Height">
+      <created>1614306944995</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1614306944995</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,6 +228,7 @@
     <MESSAGE value="Upload second Photo" />
     <MESSAGE value="Put PIC in Rows" />
     <MESSAGE value="Put PIC in Colums" />
-    <option name="LAST_COMMIT_MESSAGE" value="Put PIC in Colums" />
+    <MESSAGE value="Change Photo Height" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change Photo Height" />
   </component>
 </project>
