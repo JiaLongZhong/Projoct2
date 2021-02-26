@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trail.html" beforeDir="false" afterPath="$PROJECT_DIR$/Trail.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,14 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614295995268</updated>
       <workItem from="1614295996462" duration="10697000" />
-      <workItem from="1614348210983" duration="13938000" />
-    </task>
-    <task id="LOCAL-00014" summary="Final README.MD">
-      <created>1614304139290</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1614304139290</updated>
+      <workItem from="1614348210983" duration="14621000" />
     </task>
     <task id="LOCAL-00015" summary="Add detail on topics">
       <created>1614305945357</created>
@@ -401,14 +395,20 @@
       <option name="project" value="LOCAL" />
       <updated>1614370599344</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Update NavBar part 6">
+      <created>1614371437531</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1614371437531</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fix navbar error" />
     <MESSAGE value="Title fixed" />
     <MESSAGE value="Center Title in Narbar" />
     <MESSAGE value="Title color change to white" />
@@ -433,6 +433,7 @@
     <MESSAGE value="Update NavBar part 3" />
     <MESSAGE value="Update NavBar part 4" />
     <MESSAGE value="Update NavBar part 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update NavBar part 5" />
+    <MESSAGE value="Update NavBar part 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update NavBar part 6" />
   </component>
 </project>
