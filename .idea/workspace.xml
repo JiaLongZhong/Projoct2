@@ -54,14 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614295995268</updated>
       <workItem from="1614295996462" duration="10697000" />
-      <workItem from="1614348210983" duration="8652000" />
-    </task>
-    <task id="LOCAL-00004" summary="Create About.html + nav Bar for index.html">
-      <created>1614297161826</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1614297161826</updated>
+      <workItem from="1614348210983" duration="9069000" />
     </task>
     <task id="LOCAL-00005" summary="Add Image Page &#10;Update index.html">
       <created>1614300098457</created>
@@ -399,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614364491826</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Update Image">
+      <created>1614364646311</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1614364646311</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
