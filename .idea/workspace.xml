@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Navbar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trail.html" beforeDir="false" afterPath="$PROJECT_DIR$/Trail.html" afterDir="false" />
-    </list>
+    <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,14 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614295995268</updated>
       <workItem from="1614295996462" duration="10697000" />
-      <workItem from="1614348210983" duration="16435000" />
-    </task>
-    <task id="LOCAL-00016" summary="Update text style">
-      <created>1614306309510</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1614306309510</updated>
+      <workItem from="1614348210983" duration="16795000" />
     </task>
     <task id="LOCAL-00017" summary="Upload second Photo">
       <created>1614306620101</created>
@@ -403,14 +392,20 @@
       <option name="project" value="LOCAL" />
       <updated>1614371964660</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Create Navbar &lt;the correct form&gt;">
+      <created>1614374031164</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1614374031164</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Title fixed" />
     <MESSAGE value="Center Title in Narbar" />
     <MESSAGE value="Title color change to white" />
     <MESSAGE value="update Protocols.html" />
@@ -435,6 +430,7 @@
     <MESSAGE value="Update NavBar part 4" />
     <MESSAGE value="Update NavBar part 5" />
     <MESSAGE value="Update NavBar part 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update NavBar part 6" />
+    <MESSAGE value="Create Navbar &lt;the correct form&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Navbar &lt;the correct form&gt;" />
   </component>
 </project>
