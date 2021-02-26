@@ -56,28 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614295995268</updated>
       <workItem from="1614295996462" duration="10697000" />
-      <workItem from="1614348210983" duration="12085000" />
-    </task>
-    <task id="LOCAL-00008" summary="Modify button width (index.html)">
-      <created>1614301021403</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1614301021403</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Add Topics and Title (index.html)">
-      <created>1614301590881</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1614301590881</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Grid &lt;div&gt; (index.html)">
-      <created>1614302925344</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1614302925344</updated>
+      <workItem from="1614348210983" duration="12567000" />
     </task>
     <task id="LOCAL-00011" summary="Center text (index.html)">
       <created>1614303223829</created>
@@ -401,15 +380,34 @@
       <option name="project" value="LOCAL" />
       <updated>1614369169412</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Update NavBar">
+      <created>1614369404994</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1614369404994</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Update NavBar part 2">
+      <created>1614369510297</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1614369510297</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Update NavBar part 3">
+      <created>1614369624725</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1614369624725</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Put PIC in Rows" />
-    <MESSAGE value="Put PIC in Colums" />
     <MESSAGE value="Change Photo Height" />
     <MESSAGE value="Add Title to Navbar" />
     <MESSAGE value="Fix navbar error" />
@@ -433,6 +431,8 @@
     <MESSAGE value="Update card (index.html)" />
     <MESSAGE value="Update Image" />
     <MESSAGE value="Update NavBar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update NavBar" />
+    <MESSAGE value="Update NavBar part 2" />
+    <MESSAGE value="Update NavBar part 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update NavBar part 3" />
   </component>
 </project>
