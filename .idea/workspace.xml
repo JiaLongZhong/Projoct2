@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="" />
+    <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614295995268</updated>
-      <workItem from="1614295996462" duration="3801000" />
+      <workItem from="1614295996462" duration="5336000" />
     </task>
     <task id="LOCAL-00001" summary="Create gitignore">
       <created>1614296304408</created>
@@ -107,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614301021403</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add Topics and Title (index.html)">
+      <created>1614301590881</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1614301590881</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +132,7 @@
     <MESSAGE value="Modify button shape and color (index.html)" />
     <MESSAGE value="Modify button size (index.html)" />
     <MESSAGE value="Modify button width (index.html)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modify button width (index.html)" />
+    <MESSAGE value="Add Topics and Title (index.html)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Topics and Title (index.html)" />
   </component>
 </project>
