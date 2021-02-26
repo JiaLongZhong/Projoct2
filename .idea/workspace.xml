@@ -54,28 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614295995268</updated>
       <workItem from="1614295996462" duration="10697000" />
-      <workItem from="1614348210983" duration="8348000" />
-    </task>
-    <task id="LOCAL-00001" summary="Create gitignore">
-      <created>1614296304408</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1614296304408</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Add require pages">
-      <created>1614296516273</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1614296516273</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Create README.MD">
-      <created>1614296584445</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1614296584445</updated>
+      <workItem from="1614348210983" duration="8652000" />
     </task>
     <task id="LOCAL-00004" summary="Create About.html + nav Bar for index.html">
       <created>1614297161826</created>
@@ -399,14 +378,34 @@
       <option name="project" value="LOCAL" />
       <updated>1614363912450</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Update card (index.html)">
+      <created>1614364327706</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1614364327706</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Update card (index.html)">
+      <created>1614364380898</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1614364380898</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Update Image">
+      <created>1614364491826</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1614364491826</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Update text style" />
     <MESSAGE value="Upload second Photo" />
     <MESSAGE value="Put PIC in Rows" />
     <MESSAGE value="Put PIC in Colums" />
@@ -431,6 +430,7 @@
     <MESSAGE value="Update (HTML.html)" />
     <MESSAGE value="Update card (Protocols.html)" />
     <MESSAGE value="Update card (index.html)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update card (index.html)" />
+    <MESSAGE value="Update Image" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Image" />
   </component>
 </project>
