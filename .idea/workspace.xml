@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Protocols.html" beforeDir="false" afterPath="$PROJECT_DIR$/Protocols.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614295995268</updated>
       <workItem from="1614295996462" duration="10697000" />
-      <workItem from="1614348210983" duration="2925000" />
+      <workItem from="1614348210983" duration="3731000" />
     </task>
     <task id="LOCAL-00001" summary="Create gitignore">
       <created>1614296304408</created>
@@ -243,15 +244,34 @@
       <option name="project" value="LOCAL" />
       <updated>1614352028515</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Delete Image">
+      <created>1614352269628</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1614352269628</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Underline Topic (Protocols.html)">
+      <created>1614352371797</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1614352371797</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Underline Topic (Protocols.html)">
+      <created>1614352392427</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1614352392427</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add require pages" />
-    <MESSAGE value="Create README.MD" />
     <MESSAGE value="Create About.html + nav Bar for index.html" />
     <MESSAGE value="Add Image Page &#10;Update index.html" />
     <MESSAGE value="Modify button shape and color (index.html)" />
@@ -275,6 +295,8 @@
     <MESSAGE value="Center Title in Narbar" />
     <MESSAGE value="Title color change to white" />
     <MESSAGE value="update Protocols.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="update Protocols.html" />
+    <MESSAGE value="Delete Image" />
+    <MESSAGE value="Underline Topic (Protocols.html)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Underline Topic (Protocols.html)" />
   </component>
 </project>
