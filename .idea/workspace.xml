@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Domain.html" beforeDir="false" afterPath="$PROJECT_DIR$/Domain.html" afterDir="false" />
-    </list>
+    <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,14 +56,7 @@
       <updated>1614295995268</updated>
       <workItem from="1614295996462" duration="10697000" />
       <workItem from="1614348210983" duration="17644000" />
-      <workItem from="1614893345748" duration="17630000" />
-    </task>
-    <task id="LOCAL-00031" summary="Update (HTML.html)">
-      <created>1614353173512</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1614353173512</updated>
+      <workItem from="1614893345748" duration="17932000" />
     </task>
     <task id="LOCAL-00032" summary="Index paragraph (Protocols.html)">
       <created>1614353713776</created>
@@ -403,14 +394,20 @@
       <option name="project" value="LOCAL" />
       <updated>1614911554327</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="DNS.html updated">
+      <created>1614912145841</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1614912145841</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Trail: photo2 (HTML.html)" />
     <MESSAGE value="Update photo (Protocols.html)" />
     <MESSAGE value="Trail card" />
     <MESSAGE value="Trail card 1" />
@@ -435,6 +432,7 @@
     <MESSAGE value="Protocols.html updated" />
     <MESSAGE value="IP.html updated" />
     <MESSAGE value="Domain.html updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Domain.html updated" />
+    <MESSAGE value="DNS.html updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="DNS.html updated" />
   </component>
 </project>
