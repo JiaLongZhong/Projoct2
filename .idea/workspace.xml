@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="Navbar trail">
-      <change afterPath="$PROJECT_DIR$/Image/pexels-pixabay-373543.jpg" afterDir="false" />
+    <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IP.html" beforeDir="false" afterPath="$PROJECT_DIR$/IP.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Protocols.html" beforeDir="false" afterPath="$PROJECT_DIR$/Protocols.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trail.html" beforeDir="false" afterPath="$PROJECT_DIR$/Trail.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,28 +61,7 @@
       <updated>1614295995268</updated>
       <workItem from="1614295996462" duration="10697000" />
       <workItem from="1614348210983" duration="17644000" />
-      <workItem from="1614893345748" duration="15225000" />
-    </task>
-    <task id="LOCAL-00026" summary="Title color change to white">
-      <created>1614351413731</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1614351413731</updated>
-    </task>
-    <task id="LOCAL-00027" summary="update Protocols.html">
-      <created>1614352028515</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1614352028515</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Delete Image">
-      <created>1614352269628</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1614352269628</updated>
+      <workItem from="1614893345748" duration="15831000" />
     </task>
     <task id="LOCAL-00029" summary="Underline Topic (Protocols.html)">
       <created>1614352371797</created>
@@ -406,15 +385,34 @@
       <option name="project" value="LOCAL" />
       <updated>1614894549687</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Protocols.html updated">
+      <created>1614909458212</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1614909458212</updated>
+    </task>
+    <task id="LOCAL-00076" summary="HTML.html updated">
+      <created>1614909489708</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1614909489708</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Protocols.html updated">
+      <created>1614909728157</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1614909728157</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Index paragraph (Protocols.html)" />
-    <MESSAGE value="Index paragraph (HTML.html)" />
     <MESSAGE value="Try out photo (HTML.html)" />
     <MESSAGE value="Trail: photo (HTML.html)" />
     <MESSAGE value="Trail: photo2 (HTML.html)" />
@@ -438,6 +436,8 @@
     <MESSAGE value="container-fluid" />
     <MESSAGE value="Navbar Size" />
     <MESSAGE value="Navbar trail" />
-    <option name="LAST_COMMIT_MESSAGE" value="Navbar trail" />
+    <MESSAGE value="HTML.html updated" />
+    <MESSAGE value="Protocols.html updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Protocols.html updated" />
   </component>
 </project>
