@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain.html" beforeDir="false" afterPath="$PROJECT_DIR$/Domain.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IP.html" beforeDir="false" afterPath="$PROJECT_DIR$/IP.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Protocols.html" beforeDir="false" afterPath="$PROJECT_DIR$/Protocols.html" afterDir="false" />
@@ -61,14 +62,7 @@
       <updated>1614295995268</updated>
       <workItem from="1614295996462" duration="10697000" />
       <workItem from="1614348210983" duration="17644000" />
-      <workItem from="1614893345748" duration="15831000" />
-    </task>
-    <task id="LOCAL-00029" summary="Underline Topic (Protocols.html)">
-      <created>1614352371797</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1614352371797</updated>
+      <workItem from="1614893345748" duration="17306000" />
     </task>
     <task id="LOCAL-00030" summary="Underline Topic (Protocols.html)">
       <created>1614352392427</created>
@@ -406,14 +400,20 @@
       <option name="project" value="LOCAL" />
       <updated>1614909728157</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="IP.html updated">
+      <created>1614910263194</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1614910263194</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Try out photo (HTML.html)" />
     <MESSAGE value="Trail: photo (HTML.html)" />
     <MESSAGE value="Trail: photo2 (HTML.html)" />
     <MESSAGE value="Update photo (Protocols.html)" />
@@ -438,6 +438,7 @@
     <MESSAGE value="Navbar trail" />
     <MESSAGE value="HTML.html updated" />
     <MESSAGE value="Protocols.html updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Protocols.html updated" />
+    <MESSAGE value="IP.html updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="IP.html updated" />
   </component>
 </project>
