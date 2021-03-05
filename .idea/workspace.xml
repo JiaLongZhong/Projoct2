@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/About.html" beforeDir="false" afterPath="$PROJECT_DIR$/About.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,14 +60,7 @@
       <workItem from="1614295996462" duration="10697000" />
       <workItem from="1614348210983" duration="17644000" />
       <workItem from="1614893345748" duration="18093000" />
-      <workItem from="1614960038168" duration="2218000" />
-    </task>
-    <task id="LOCAL-00034" summary="Try out photo (HTML.html)">
-      <created>1614354327810</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1614354327810</updated>
+      <workItem from="1614960038168" duration="2888000" />
     </task>
     <task id="LOCAL-00035" summary="Trail: photo (HTML.html)">
       <created>1614354721005</created>
@@ -405,14 +398,20 @@
       <option name="project" value="LOCAL" />
       <updated>1614961586213</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="index.html updated">
+      <created>1614962311275</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1614962311275</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Trail card" />
     <MESSAGE value="Trail card 1" />
     <MESSAGE value="Update (index.html)" />
     <MESSAGE value="Update (HTML.html)" />
@@ -437,6 +436,7 @@
     <MESSAGE value="Domain.html updated" />
     <MESSAGE value="DNS.html updated" />
     <MESSAGE value="About.html updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="About.html updated" />
+    <MESSAGE value="index.html updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="index.html updated" />
   </component>
 </project>
