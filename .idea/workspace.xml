@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="">
+    <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="Navbar trail">
+      <change afterPath="$PROJECT_DIR$/Image/pexels-pixabay-373543.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Protocols.html" beforeDir="false" afterPath="$PROJECT_DIR$/Protocols.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trail.html" beforeDir="false" afterPath="$PROJECT_DIR$/Trail.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +40,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Image" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -57,28 +61,7 @@
       <updated>1614295995268</updated>
       <workItem from="1614295996462" duration="10697000" />
       <workItem from="1614348210983" duration="17644000" />
-      <workItem from="1614893345748" duration="1014000" />
-    </task>
-    <task id="LOCAL-00023" summary="Fix navbar error">
-      <created>1614349593529</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1614349593529</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Title fixed">
-      <created>1614349818390</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1614349818390</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Center Title in Narbar">
-      <created>1614351024382</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1614351024382</updated>
+      <workItem from="1614893345748" duration="15225000" />
     </task>
     <task id="LOCAL-00026" summary="Title color change to white">
       <created>1614351413731</created>
@@ -402,14 +385,34 @@
       <option name="project" value="LOCAL" />
       <updated>1614893684849</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Navbar Size">
+      <created>1614894482674</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1614894482674</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Navbar Size">
+      <created>1614894507898</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1614894507898</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Navbar trail">
+      <created>1614894549687</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1614894549687</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Underline Topic (Protocols.html)" />
     <MESSAGE value="Index paragraph (Protocols.html)" />
     <MESSAGE value="Index paragraph (HTML.html)" />
     <MESSAGE value="Try out photo (HTML.html)" />
@@ -434,6 +437,7 @@
     <MESSAGE value="Navbar" />
     <MESSAGE value="container-fluid" />
     <MESSAGE value="Navbar Size" />
-    <option name="LAST_COMMIT_MESSAGE" value="Navbar Size" />
+    <MESSAGE value="Navbar trail" />
+    <option name="LAST_COMMIT_MESSAGE" value="Navbar trail" />
   </component>
 </project>

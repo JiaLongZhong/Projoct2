@@ -7,119 +7,89 @@
     <!-- Bootstrap CSS -->
     <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css"
           integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" rel="stylesheet">
-
-    <style>
-        button {
-            background-color: white;
-            color: black;
-            border: 2px solid #008CBA;
-            border-radius: 2px;
-            font-size: 24px;
-            width: 240px;
-            height:80px;
-        }
-        h1{padding-left: 150px;
-            text-align:left;
-            color: white;}
-        h2{text-align: center;
-            text-decoration-line: underline;
-            text-decoration-color: black;}
-        center{text-align: justify-all;}
-        div.a {
-            text-align: left;
-            text-indent: 50px;
-        }
-
-
-    </style>
+    <link data-require="bootstrap-css@3.1.1" data-semver="3.1.1" rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" />
     <title>HomePage</title>
 
 </head>
-
-<body>
-<div class="container">
+<body style ="background-color: lightblue;">
+<div class="container-fluid">
     <div class="row">
-        <div class="Carosel">
-            <nav class="navbar navbar-dark bg-primary">
-                <div class="container-fluid">
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-                    <div class="collapse navbar-collapse" id="navbarNav">
-                        <ul class="navbar-nav">
-                            <li class="nav-item">
-                                <a class="nav-link" href="index.html">Home</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="About.html">About</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="Domain.html">Domain names and ICANN</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="IP.html">IP Addresses, Packets and Routing</a>
-                            <li class="nav-item">
-                                <a class="nav-link" href="DNS.html">DNS</a>
-                            </li>
-                            <li class="nav-item active"  aria-current="page">
-                                <a class="nav-link" href="Protocols.html">HTTP and HTTPS protocols</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="HTML.html">W3C and HTML and CSS</a>
-                            </li>
+        <nav class="navbar navbar-expand-sm navbar-dark fixed-top bg-primary">
+
+            <a class="navbar-brand" href="index.html"> How the Internet Works</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="container">
+                <div class="row">
+                    <div class="col"></div>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link " aria-current="page" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="About.html">Team</a>
+                    </li>
+                    <li class="nav-item active dropdown">
+                        <a class="nav-link dropdown-toggle " href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Information
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <li><a class="dropdown-item" href="Domain.html">Domain names and ICANN</a></li>
+                            <li><a class="dropdown-item" href="IP.html">IP Addresses, Packets and Routing</a></li>
+                            <li><a class="dropdown-item" href="DNS.html">DNS</a></li>
+                            <li><a class="dropdown-item" href="Protocols.html">HTTP and HTTPS protocols</a></li>
+                            <li><a class="dropdown-item" href="HTML.html">W3C and HTML and CSS</a></li>
                         </ul>
-                    </div>
-                </div>
-                <h1>IS117 Project 2: How the Internet Works</h1>
-                <div>
-                    <img src="Image/pexels-miguel-á-padriñán-1591061.jpg" class="rounded-circle" alt="browser" width="150" height="150">
-                </div>
-            </nav>
-        </div>
+                    </li>
+                </ul>
+            </div>
+        </nav>
     </div>
     <div class="row">
-        <div class="col-md-auto">
-            <form method="get" action="index.html">
-                <button type="submit">Home</button>
-            </form>
-            <form method="get" action="About.html">
-                <button type="submit">About</button>
-            </form>
-            <form method="get" action="Domain.html">
-                <button type="submit">DomainName/ICANN</button>
-            </form>
-            <form method="get" action="IP.html">
-                <button type="submit">IP/Packets/Routing</button>
-            </form>
-            <form method="get" action="DNS.html">
-                <button type="submit">DNS</button>
-            </form>
-            <form method="get" action="Protocols.html">
-                <button type="submit">HTTP/HTTPS</button>
-            </form>
-            <form method="get" action="HTML.html">
-                <button type="submit">W3C/HTML/CSS</button>
-            </form>
-            <img src="Image/pexels-negative-space-169573.jpg"  alt="browser" width="240" height="240">
-        </div>
-        <div class="col">
-            <div class="col">
-                <div class="card" style="width: 50rem;">
-            <h2>HTTP & HTTPS Protocols:</h2>
-            <div class="a">
-            <p class="center">Hypertext Transfer Protocol Secure (HTTPS) is the encrypted version of Hypertext Transfer Protocol (HTTP). HTTP (Hypertext Transfer Protocol) is an Application layer protocol that allows web-based applications to communicate. Application layer is in the OSI model with contain seven layers. These layers are the following: Physical Layer, Datalink Layer, Network Layer, Transport Layer, Session Layer, Presentation Layer, and Application Layer. Or as I remember them as “Please do not throw sausage pizza away”. Application layer use network application to exchange data on a network. For example, web browser like Chrome and Firefox, which all used HTTP protocol.</p>
-            <p class="center">HTTP is a TCP/IP protocol call and is the messenger of the web. It used to deliver contents such as image, video, and document. In other word, HTTP can deliver any type of data as long as the receiving and sending computers can both read it. And because of that, HTTP protocol became the most convenient way to quickie send reliably data on the web. If two computers want to exchange data, they must follow the HTTP protocol which is basically a request response cycle. Namely the client is the computer that make the request and the server is the one responds to the request.</p>
-            <p class="center">A HTTP request message contain the Start line (which include the Method, URI, and HTTP Version) and the Header (which contain the Host, Accept, and Accept Language). The Method is the command that the client give to the serve, instructing the server what to do. The URI show where we are getting our resource from. Basically, the location of the information from the server. The HTTP Version data is what version the client is using. The Host is the address of the server. Accept language tell you what language the information is and Accept tell you what type of file the data is in.	</p>
-            <p class="center">A HTTP respond message have a Start line (Which contain the HTTP version and the status code), the Header (which contain the Host, Accept, and Accept Language), and a respond body (that contain the file requested). The status code tell the client is the request is successful or not, which depend on the first digit of the status code. Notice that the Method and URL is not in the Start line because those are specifically for the request HTTP request message. </p>
-            </div>
+        <div class="col-8">
+            <div class="card">
+                <div class="card-body">
+                    <h2>W3C & HTML & CSS:</h2>
+                    <div class="a">
+                        <p class="center">World Wide Web Consortium (W3C) was the standard organization for Cascading Style Sheets (CSS) and Hypertext Markup Language (HTML). HTML is the language used to design a webpage. CSS is the style sheet that formats the webpage.</p>
+                        <p class="center">Majority of the Webpage are created with HTML (Hypertext Markup Language), which is basically the computer language used to create a Webpage. HTML is support by all type of web-browser. Google Chrome, Internet Explorer, Firefox, and many more. To create a webpage, programmer will need to use the HTML tags. Which is the root of all HTML document. </p>
+                        <p class="center">In the past, webpage were static containing mostly of texts and images. But nowadays, web designer used more interaction content. For example, the ability to shift the background photo to another just by pointing your mouse at it. Or signing in button changing color when pressed. Those webpages are known as dynamic webpage and the content is call dynamic content. This however doesn’t mean that webpage is non-static because the webpage is still mostly static. </p>
+                        <p class="center">The only way for a webpage to contain dynamic content is to provide HTML a set of instructions. This process is called scripting and the set of instruction are known as script. Those instruction can only be use under certain condition. For instance: it is common practice to provide a statement when a person successfully login into their account. The condition for this to happen is self-explanatory. The point of web scripting is for small program to executed based on user interaction with the webpage. It widely used for web development because it allow user to interact with the webpage then just looking at its image and text. </p>
+                        <p class="center">Cascading Style Sheets (CSS) is responsible for the style of the web page. It does that by showing how HTML elements are displayed on the screen, paper, or in other media. For example: all the colors, fonts, and positioning of the elements are all cause by CSS.  Basically, CCS is what make a webpage look good, it the fashion of webpage. Without CCS all the webpage will look redundant, everything will be from top to bottom, left to right, without any background image or colorful box with information in it. People are very visual being, and without CSS, all the web pages will just look dull. For example: Look at the home page website for any class in canvas. You see the callout boxes, and multiple tables with week and assignment in them. In the other hand without CSS it look like a website create in the 1980. If you want to see any website without CSS, you can download the web developer extension in chrome and remove all style.</p>
                     </div>
                 </div>
+            </div>
+        </div>
+        <div class="col-4">
+            <img src="Image/pexels-miguel-á-padriñán-1591061.jpg" width="360" height="500">
         </div>
     </div>
 </div>
+<div class="row">
+    <footer class="bg-light text-lg-start">
+        <div class="col" style="background-color: rgba(0, 0, 0, 0.8);">
+            <ul style="list-style-type:none;">
+                <li style="color:whitesmoke" >Site Link:</li>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="About.html">Team</a></li>
+                <li><a href="DNS.html">DNS</a></li>
+                <li><a href="Domain.html">Domain names and ICANN</a></li>
+                <li><a href="IP.html">IP Addresses, Packets and Routing</a></li>
+                <li><a href="Protocols.html">HTTP and HTTPS protocols</a></li>
+                <li><a href="HTML.html">W3C and HTML and CSS</a></li>
+            </ul>
+            <div class="text-center" style="background-color:dodgerblue;">
+                © 2021 Copyright: Jia Zhong Project 2: How the Internet Works
+            </div>
+        </div>
+    </footer>
+</div>
 </body>
 <!-- Optional JavaScript -->
-<!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
