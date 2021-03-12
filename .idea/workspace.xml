@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Image/Lock.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Image/Lock.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Protocols.html" beforeDir="false" afterPath="$PROJECT_DIR$/Protocols.html" afterDir="false" />
-    </list>
+    <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,14 +64,7 @@
       <workItem from="1614893345748" duration="18093000" />
       <workItem from="1614960038168" duration="4003000" />
       <workItem from="1615044342109" duration="63000" />
-      <workItem from="1615554791450" duration="2473000" />
-    </task>
-    <task id="LOCAL-00039" summary="Trail card">
-      <created>1614362342295</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1614362342295</updated>
+      <workItem from="1615554791450" duration="2941000" />
     </task>
     <task id="LOCAL-00040" summary="Trail card 1">
       <created>1614362381079</created>
@@ -414,14 +402,20 @@
       <option name="project" value="LOCAL" />
       <updated>1615558013443</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="Add text to Image">
+      <created>1615558823246</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1615558823246</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Update card (Protocols.html)" />
     <MESSAGE value="Update card (index.html)" />
     <MESSAGE value="Update Image" />
     <MESSAGE value="Update NavBar" />
@@ -446,6 +440,7 @@
     <MESSAGE value="Added Google Analyze Code" />
     <MESSAGE value="Added Google Analytic Code to Protocols.html" />
     <MESSAGE value="More Appealing Image" />
-    <option name="LAST_COMMIT_MESSAGE" value="More Appealing Image" />
+    <MESSAGE value="Add text to Image" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add text to Image" />
   </component>
 </project>
