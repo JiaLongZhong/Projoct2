@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="" />
+    <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,14 +66,7 @@
       <workItem from="1614893345748" duration="18093000" />
       <workItem from="1614960038168" duration="4003000" />
       <workItem from="1615044342109" duration="63000" />
-      <workItem from="1615554791450" duration="2941000" />
-    </task>
-    <task id="LOCAL-00040" summary="Trail card 1">
-      <created>1614362381079</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1614362381079</updated>
+      <workItem from="1615554791450" duration="3731000" />
     </task>
     <task id="LOCAL-00041" summary="Trail card 1">
       <created>1614362410011</created>
@@ -409,14 +404,20 @@
       <option name="project" value="LOCAL" />
       <updated>1615558823246</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="Crop Image">
+      <created>1615559424802</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1615559424802</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Update card (index.html)" />
     <MESSAGE value="Update Image" />
     <MESSAGE value="Update NavBar" />
     <MESSAGE value="Update NavBar part 2" />
@@ -441,6 +442,7 @@
     <MESSAGE value="Added Google Analytic Code to Protocols.html" />
     <MESSAGE value="More Appealing Image" />
     <MESSAGE value="Add text to Image" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add text to Image" />
+    <MESSAGE value="Crop Image" />
+    <option name="LAST_COMMIT_MESSAGE" value="Crop Image" />
   </component>
 </project>
