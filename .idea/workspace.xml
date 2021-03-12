@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Image/Lock.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image/Lock.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Protocols.html" beforeDir="false" afterPath="$PROJECT_DIR$/Protocols.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ozioWAuQHZoUDskszqkoh57X5P" />
@@ -61,14 +69,7 @@
       <workItem from="1614893345748" duration="18093000" />
       <workItem from="1614960038168" duration="4003000" />
       <workItem from="1615044342109" duration="63000" />
-      <workItem from="1615554791450" duration="1502000" />
-    </task>
-    <task id="LOCAL-00038" summary="Trail card">
-      <created>1614362308674</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1614362308675</updated>
+      <workItem from="1615554791450" duration="2473000" />
     </task>
     <task id="LOCAL-00039" summary="Trail card">
       <created>1614362342295</created>
@@ -406,14 +407,20 @@
       <option name="project" value="LOCAL" />
       <updated>1615556591463</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="More Appealing Image">
+      <created>1615558013443</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1615558013443</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Update (HTML.html)" />
     <MESSAGE value="Update card (Protocols.html)" />
     <MESSAGE value="Update card (index.html)" />
     <MESSAGE value="Update Image" />
@@ -438,6 +445,7 @@
     <MESSAGE value="index.html updated" />
     <MESSAGE value="Added Google Analyze Code" />
     <MESSAGE value="Added Google Analytic Code to Protocols.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Google Analytic Code to Protocols.html" />
+    <MESSAGE value="More Appealing Image" />
+    <option name="LAST_COMMIT_MESSAGE" value="More Appealing Image" />
   </component>
 </project>
