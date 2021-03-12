@@ -66,14 +66,7 @@
       <workItem from="1614893345748" duration="18093000" />
       <workItem from="1614960038168" duration="4003000" />
       <workItem from="1615044342109" duration="63000" />
-      <workItem from="1615554791450" duration="3731000" />
-    </task>
-    <task id="LOCAL-00041" summary="Trail card 1">
-      <created>1614362410011</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1614362410011</updated>
+      <workItem from="1615554791450" duration="4704000" />
     </task>
     <task id="LOCAL-00042" summary="Update (index.html)">
       <created>1614362528575</created>
@@ -411,14 +404,20 @@
       <option name="project" value="LOCAL" />
       <updated>1615559424802</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="Color text">
+      <created>1615560350644</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1615560350644</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Update Image" />
     <MESSAGE value="Update NavBar" />
     <MESSAGE value="Update NavBar part 2" />
     <MESSAGE value="Update NavBar part 3" />
@@ -443,6 +442,7 @@
     <MESSAGE value="More Appealing Image" />
     <MESSAGE value="Add text to Image" />
     <MESSAGE value="Crop Image" />
-    <option name="LAST_COMMIT_MESSAGE" value="Crop Image" />
+    <MESSAGE value="Color text" />
+    <option name="LAST_COMMIT_MESSAGE" value="Color text" />
   </component>
 </project>
