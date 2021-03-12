@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Protocols.html" beforeDir="false" afterPath="$PROJECT_DIR$/Protocols.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Image_Maslow's_hierarchy_of_needs" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -66,14 +67,7 @@
       <workItem from="1614893345748" duration="18093000" />
       <workItem from="1614960038168" duration="4003000" />
       <workItem from="1615044342109" duration="63000" />
-      <workItem from="1615554791450" duration="4704000" />
-    </task>
-    <task id="LOCAL-00042" summary="Update (index.html)">
-      <created>1614362528575</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1614362528575</updated>
+      <workItem from="1615554791450" duration="6888000" />
     </task>
     <task id="LOCAL-00043" summary="Update (HTML.html)">
       <created>1614362588178</created>
@@ -411,14 +405,20 @@
       <option name="project" value="LOCAL" />
       <updated>1615560350644</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Implementing the SEO checklist">
+      <created>1615561312525</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1615561312525</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Update NavBar" />
     <MESSAGE value="Update NavBar part 2" />
     <MESSAGE value="Update NavBar part 3" />
     <MESSAGE value="Update NavBar part 4" />
@@ -443,6 +443,7 @@
     <MESSAGE value="Add text to Image" />
     <MESSAGE value="Crop Image" />
     <MESSAGE value="Color text" />
-    <option name="LAST_COMMIT_MESSAGE" value="Color text" />
+    <MESSAGE value="Implementing the SEO checklist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementing the SEO checklist" />
   </component>
 </project>
