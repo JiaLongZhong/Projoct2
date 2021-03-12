@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1cec14c7-3e05-481f-8db1-118b42830248" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Protocols.html" beforeDir="false" afterPath="$PROJECT_DIR$/Protocols.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Image_Maslow's_hierarchy_of_needs" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ozioWAuQHZoUDskszqkoh57X5P" />
@@ -61,56 +67,7 @@
       <workItem from="1614893345748" duration="18093000" />
       <workItem from="1614960038168" duration="4003000" />
       <workItem from="1615044342109" duration="63000" />
-      <workItem from="1615554791450" duration="607000" />
-    </task>
-    <task id="LOCAL-00036" summary="Trail: photo2 (HTML.html)">
-      <created>1614354895434</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1614354895434</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Update photo (Protocols.html)">
-      <created>1614355242947</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1614355242947</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Trail card">
-      <created>1614362308674</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1614362308675</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Trail card">
-      <created>1614362342295</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1614362342295</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Trail card 1">
-      <created>1614362381079</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1614362381079</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Trail card 1">
-      <created>1614362410011</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1614362410011</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Update (index.html)">
-      <created>1614362528575</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1614362528575</updated>
+      <workItem from="1615554791450" duration="6888000" />
     </task>
     <task id="LOCAL-00043" summary="Update (HTML.html)">
       <created>1614362588178</created>
@@ -406,20 +363,62 @@
       <option name="project" value="LOCAL" />
       <updated>1614963132193</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Added Google Analytic Code to Protocols.html">
+      <created>1615556546560</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1615556546561</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Added Google Analytic Code to Protocols.html">
+      <created>1615556591463</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1615556591463</updated>
+    </task>
+    <task id="LOCAL-00087" summary="More Appealing Image">
+      <created>1615558013443</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1615558013443</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Add text to Image">
+      <created>1615558823246</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1615558823246</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Crop Image">
+      <created>1615559424802</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1615559424802</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Color text">
+      <created>1615560350644</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1615560350644</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Implementing the SEO checklist">
+      <created>1615561312525</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1615561312525</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Trail card 1" />
-    <MESSAGE value="Update (index.html)" />
-    <MESSAGE value="Update (HTML.html)" />
-    <MESSAGE value="Update card (Protocols.html)" />
-    <MESSAGE value="Update card (index.html)" />
-    <MESSAGE value="Update Image" />
-    <MESSAGE value="Update NavBar" />
     <MESSAGE value="Update NavBar part 2" />
     <MESSAGE value="Update NavBar part 3" />
     <MESSAGE value="Update NavBar part 4" />
@@ -438,6 +437,13 @@
     <MESSAGE value="DNS.html updated" />
     <MESSAGE value="About.html updated" />
     <MESSAGE value="index.html updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="index.html updated" />
+    <MESSAGE value="Added Google Analyze Code" />
+    <MESSAGE value="Added Google Analytic Code to Protocols.html" />
+    <MESSAGE value="More Appealing Image" />
+    <MESSAGE value="Add text to Image" />
+    <MESSAGE value="Crop Image" />
+    <MESSAGE value="Color text" />
+    <MESSAGE value="Implementing the SEO checklist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementing the SEO checklist" />
   </component>
 </project>
